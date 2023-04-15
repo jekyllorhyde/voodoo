@@ -1,2 +1,2 @@
-# voodoo
- Terminal-Based ascii game engine package for python
+#  Voodoo
+Terminal-Based ascii game engine package for python
